@@ -1,0 +1,9 @@
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.exe.config
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.exe
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.Form1.resources
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.Properties.Resources.resources
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.exe
+c:\users\piotr\documents\visual studio 2015\Projects\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.pdb
